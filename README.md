@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور عيني في عتمة الليالي
+> أشواق قلبي تنادي طيفك الغالي
+> تعالي قربي وريحي لي بالي
+> هلاك علي لو تبعدي يا حالي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

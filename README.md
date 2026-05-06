@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/halak-3alay-im-worried-about-you/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [License Abu Sayed's Halak 3alay – I'm Worried About You](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---

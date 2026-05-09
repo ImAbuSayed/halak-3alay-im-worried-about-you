@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Halak 3alay – I'm Worried About You
+
+This log tracks the cryptographic history and versioning for the song **Halak 3alay – I'm Worried About You** (halak-3alay-im-worried-about-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:15:42.935233 | `v1` | `7d68454b997323f253a54f1b1e3ad63df3b0a13766663466ded0a09a7baf30bb` | `e1357123fced884bee9e6786da247983c1a2e572728f46a501d6fbc9f86a2009` | `2026-05-09_halak-3alay-im-worried-about-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
